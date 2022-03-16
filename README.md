@@ -2,5 +2,19 @@
 
 Diplomado Online Analítica de datos
 
-Propuesta de valor
-El principio de este diplomado es fortalecer en los participantes una actitud analítica basada en datos, gracias a la exploración incremental y práctica de las diferentes técnicas, retos y tendencias de la analítica; todo lo anterior enmarcado en una metodología especializada para proyectos de analítica que le permitirá al participante llevar de manera más natural todo lo aprendido a la práctica organizacional.
+Módulo 2: Modelos analíticos usando datos estructurados.
+
+- Técnicas Inductivas de Aprendizaje de Máquina
+- Redes Neuronales
+- SVM, CBR
+- Análisis explorativos de datos
+- Modelos analíticos predictivos: regresión
+- Modelos analíticos predictivos:: Árboles de decisión
+- Modelos analíticos predictivos: Métodos de ensamble
+- Modelos analíticos descriptivos: Clustering
+- Modelos analíticos descriptivos: reglas de asociacion
+- Modelos analíticos descriptivos: reducción de dimensionalidad 
+
+
+
+
